@@ -1,5 +1,5 @@
 # DOWNLOAD LIGMA HERE
-[ligmaclient](https://minesense.pub/download/Exhibition-Fixed.zip)
+[ExhibitionClient](https://minesense.pub/download/Exhibition-Fixed.zip)
 
 # OTHER CLIENTS
 [Raven B++"Stable"](https://github.com/K-ov/Raven-bPLUS/raw/stable/build/libs/%5B1.8.9%5D%20BetterKeystrokes%20V-1.2.jar)
