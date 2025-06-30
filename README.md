@@ -25,7 +25,7 @@
 [Skeet.CC](https://gamesense.live/download)
 [Primordial crack](https://hackvshack.net/attachments/primordial-zip.8415/)
 # CS2 CHEATS
-[Aimwarev5.1](blob:https://mega.nz/03b2421e-cb78-4358-b001-fc93a0ca7e24)
+[Aimwarev5.1](https://mega.nz/03b2421e-cb78-4358-b001-fc93a0ca7e24)
 
 # MINECRAFT BEDROCK CHEATS
 [Solstice 1.21.90+](https://cold-eu-agl-1.gofile.io/download/web/d6514642-e66b-4f59-9700-a57c4ddb4b58/Solstice.dll)
