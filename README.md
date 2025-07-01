@@ -1,4 +1,4 @@
-#Download Cheats
+# Download Cheats
 
 # Best 1.8.9 Cheat
 <a href="https://minesense.pub/download/Exhibition-Fixed.zip" target="_blank" style="text-decoration: none;">
