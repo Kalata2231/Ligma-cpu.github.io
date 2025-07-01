@@ -27,7 +27,7 @@
 
 [WreakinHavoc](https://hackvshack.net/attachments/wreakhavoc_online-zip.6629/)
 [Havoc-Fonts](https://hackvshack.net/attachments/fonts-zip.6635/)
-[Onetapv2(by t.me/anonteam1337)](https://cold5.gofile.io/download/web/b576a615-7729-4879-ade0-e931f971f8c1/otc%20csgo.dll)
+[Onetapv2(by t.me/anonteam1337)](https://cold5.gofile.io/download/web/b576a615-7729-4879-ade0-e931f971f8c1/otc%20csgo.dll) Important inject otc with process hacker and menu works only when im match
 [Skeet.CC](https://gamesense.live/download)
 [Primordial crack](https://hackvshack.net/attachments/primordial-zip.8415/)
 
