@@ -48,16 +48,15 @@
     padding: 15px 20px;
     font-size: 16px;
     font-weight: bold;
-    color: #fff;
-    background-color: #4CAF50;
+    color: #000; /* black text */
+    background-color: #aae04c; /* new background color */
     border: none;
     border-radius: 8px;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
     cursor: pointer;
     transition: background-color 0.3s ease;
-  " onmouseover="this.style.backgroundColor='#45a049'" onmouseout="this.style.backgroundColor='#4CAF50'">
+  " onmouseover="this.style.backgroundColor='#98cb3f'" onmouseout="this.style.backgroundColor='#aae04c'">
     ExLoader
   </button>
 </a>
-
 
