@@ -41,13 +41,104 @@
 
 [WreakinHavoc](https://hackvshack.net/attachments/wreakhavoc_online-zip.6629/)
 [Havoc-Fonts](https://hackvshack.net/attachments/fonts-zip.6635/)
-[Onetapv2(by t.me/anonteam1337)](https://cold5.gofile.io/download/web/b576a615-7729-4879-ade0-e931f971f8c1/otc%20csgo.dll) Important inject otc with process hacker and menu works only when im match
-[Skeet.CC](https://gamesense.live/download)
-[Primordial crack](https://hackvshack.net/attachments/primordial-zip.8415/)
-# CS2 CHEAT
-# =========
 
-[Aimware](https://cold4.gofile.io/download/web/bb5a5e1f-c603-494b-a473-c8f7847f9fc9/Aimware.zip)
+<a href="https://cold1.gofile.io/download/web/b6fa9be5-d8f8-40e0-a35d-b980cb87dfdd/Otcv2.rar" target="_blank" style="text-decoration: none;">
+  <button style="
+    width: 300px;
+    padding: 15px 20px;
+    font-size: 16px;
+    font-weight: bold;
+    color: #000;
+    background-color: #aae04c;
+    border: none;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    cursor: pointer;
+    transition: all 0.3s ease;
+  " onmouseover="
+    this.style.backgroundColor='#98cb3f';
+    this.style.boxShadow='0 0 0 3px #555';
+  " onmouseout="
+    this.style.backgroundColor='#aae04c';
+    this.style.boxShadow='0 4px 6px rgba(0, 0, 0, 0.1)';
+  ">
+    OneTap V2
+  </button>
+</a>
+
+<a href="https://gamesense.live/download" target="_blank" style="text-decoration: none;">
+  <button style="
+    width: 300px;
+    padding: 15px 20px;
+    font-size: 16px;
+    font-weight: bold;
+    color: #000;
+    background-color: #aae04c;
+    border: none;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    cursor: pointer;
+    transition: all 0.3s ease;
+  " onmouseover="
+    this.style.backgroundColor='#98cb3f';
+    this.style.boxShadow='0 0 0 3px #555';
+  " onmouseout="
+    this.style.backgroundColor='#aae04c';
+    this.style.boxShadow='0 4px 6px rgba(0, 0, 0, 0.1)';
+  ">
+    Skeet.cc
+  </button>
+</a>
+
+ <a href="https://hackvshack.net/attachments/primordial-zip.8415/" target="_blank" style="text-decoration: none;">
+  <button style="
+    width: 300px;
+    padding: 15px 20px;
+    font-size: 16px;
+    font-weight: bold;
+    color: #000;
+    background-color: #aae04c;
+    border: none;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    cursor: pointer;
+    transition: all 0.3s ease;
+  " onmouseover="
+    this.style.backgroundColor='#98cb3f';
+    this.style.boxShadow='0 0 0 3px #555';
+  " onmouseout="
+    this.style.backgroundColor='#aae04c';
+    this.style.boxShadow='0 4px 6px rgba(0, 0, 0, 0.1)';
+  ">
+    Primordial Crack
+  </button>
+</a>
+
+# CS2 Cheat
+
+<a href="https://cold4.gofile.io/download/web/bb5a5e1f-c603-494b-a473-c8f7847f9fc9/Aimware.zip" target="_blank" style="text-decoration: none;">
+  <button style="
+    width: 300px;
+    padding: 15px 20px;
+    font-size: 16px;
+    font-weight: bold;
+    color: #000;
+    background-color: #aae04c;
+    border: none;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    cursor: pointer;
+    transition: all 0.3s ease;
+  " onmouseover="
+    this.style.backgroundColor='#98cb3f';
+    this.style.boxShadow='0 0 0 3px #555';
+  " onmouseout="
+    this.style.backgroundColor='#aae04c';
+    this.style.boxShadow='0 4px 6px rgba(0, 0, 0, 0.1)';
+  ">
+    Aimware
+  </button>
+</a>
 
 # Minecraft Bedrock Cheats
 
