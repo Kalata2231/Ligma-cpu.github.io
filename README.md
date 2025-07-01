@@ -42,21 +42,22 @@
 # EXLOADER CHEAT LOADER
 [Exloader.net](https://data.exloader.net/ExLoader_Installer.exe)
 
-<a href="https://data.exloader.net/ExLoader_Installer.exe" style="text-decoration: none;">
-  <div style="
+<a href="https://data.exloader.net/ExLoader_Installer.exe" target="_blank" style="text-decoration: none;">
+  <button style="
     width: 300px;
-    padding: 20px;
-    border: 2px solid #333;
-    background-color: #f2f2f2;
-    border-radius: 10px;
-    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
-    text-align: center;
-    color: #000;
+    padding: 15px 20px;
+    font-size: 16px;
     font-weight: bold;
-    transition: all 0.3s ease;
-  " onmouseover="this.style.backgroundColor='#e0e0e0'" onmouseout="this.style.backgroundColor='#f2f2f2'">
+    color: #fff;
+    background-color: #4CAF50;
+    border: none;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  " onmouseover="this.style.backgroundColor='#45a049'" onmouseout="this.style.backgroundColor='#4CAF50'">
     ExLoader
-  </div>
+  </button>
 </a>
 
 
