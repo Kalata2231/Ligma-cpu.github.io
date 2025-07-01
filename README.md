@@ -41,3 +41,9 @@
 [Fate Injector](https://github.com/fligger/FateInjector/releases/download/1.0/FateInjector.exe)
 # EXLOADER CHEAT LOADER
 [Exloader.net](https://data.exloader.net/ExLoader_Installer.exe)
+
+<div style="border: 2px solid #333; padding: 20px; background: #f2f2f2; width: 300px; border-radius: 10px;">
+  <h3>Box Title</h3>
+  <p>This is inside a rectangle.</p>
+</div>
+
