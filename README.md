@@ -42,8 +42,20 @@
 # EXLOADER CHEAT LOADER
 [Exloader.net](https://data.exloader.net/ExLoader_Installer.exe)
 
-<div style="border: 2px solid #333; padding: 20px; background: #f2f2f2; width: 300px; border-radius: 10px;">
-  <h3>Box Title</h3>
-  <p>This is inside a rectangle.</p>
-</div>
+<a href="/your-target-page/" style="text-decoration: none;">
+  <div style="
+    width: 300px;
+    padding: 20px;
+    border: 2px solid #333;
+    background-color: #f2f2f2;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    text-align: center;
+    color: #000;
+    font-weight: bold;
+    transition: all 0.3s ease;
+  " onmouseover="this.style.backgroundColor='#e0e0e0'" onmouseout="this.style.backgroundColor='#f2f2f2'">
+    🚀 Click Me
+  </div>
+</a>
 
