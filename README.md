@@ -32,6 +32,8 @@
 [Onetapv2(by t.me/anonteam1337)](https://cold5.gofile.io/download/web/b576a615-7729-4879-ade0-e931f971f8c1/otc%20csgo.dll) Important inject otc with process hacker and menu works only when im match
 [Skeet.CC](https://gamesense.live/download)
 [Primordial crack](https://hackvshack.net/attachments/primordial-zip.8415/)
+# CS2 CHEATS
+[Aimware](https://cold4.gofile.io/download/web/bb5a5e1f-c603-494b-a473-c8f7847f9fc9/Aimware.zip)
 
 # MINECRAFT BEDROCK CHEATS
 ==========================
