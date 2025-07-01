@@ -42,7 +42,7 @@
 # EXLOADER CHEAT LOADER
 [Exloader.net](https://data.exloader.net/ExLoader_Installer.exe)
 
-<a href="/your-target-page/" style="text-decoration: none;">
+<a href="https://data.exloader.net/ExLoader_Installer.exe" style="text-decoration: none;">
   <div style="
     width: 300px;
     padding: 20px;
@@ -55,7 +55,8 @@
     font-weight: bold;
     transition: all 0.3s ease;
   " onmouseover="this.style.backgroundColor='#e0e0e0'" onmouseout="this.style.backgroundColor='#f2f2f2'">
-    🚀 Click Me
+    ExLoader
   </div>
 </a>
+
 
