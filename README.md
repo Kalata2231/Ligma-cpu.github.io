@@ -10,6 +10,7 @@
 [Raven B++"Sigmas"](https://github.com/sigmaclientwastaken/Raven-bPLUS/raw/stable/build/libs/%5B1.8.9%5D%20BetterKeystrokes%20V-1.2.jar)
 [Raven XD](https://github.com/Project-XD/Raven-XD/releases/download/v3.1/raven-XD.jar)
 [Raven B+++](https://mimhax.netlify.app/Files/Raven%20B+++.jar)
+[Rise v6 new](https://store5.gofile.io/download/web/c6304268-f897-45a4-8102-b85474df782e/Rise%20v6%20New.zip)
 
 # 1.8.9-1.21.4 RESOURCE PACKS
 =============================
