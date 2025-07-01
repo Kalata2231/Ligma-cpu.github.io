@@ -39,3 +39,5 @@
 ==========================
 [Solstice 1.21.90+](https://cold-eu-agl-1.gofile.io/download/web/d6514642-e66b-4f59-9700-a57c4ddb4b58/Solstice.dll)
 [Fate Injector](https://github.com/fligger/FateInjector/releases/download/1.0/FateInjector.exe)
+# EXLOADER CHEAT LOADER
+[Exloader.net](https://data.exloader.net/ExLoader_Installer.exe)
